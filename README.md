@@ -7,6 +7,8 @@ La storia della mia vita raccontata anno per anno.
 Queste pagine sono utilizzate come supporto per la ricostruzione della mia vita, in relazione al processo di scoperta del perchè, descritto nel libro ["Trova il tuo perché" - S.Sinek](https://www.amazon.it/motivazioni-profonde-realizzarsi-ispirare-diventare/dp/8869876764).
 Se siete intressati ad articoli tecnici, non continuate nella lettura di queste pagine, ma visitate il mio blog al seguente indirizzo [https://hardcode.blog](https://hardcode.blog).
 
+## Età adulta
+
 - [2021](posts/2021)
 - [2020](posts/2020) - La pandemia
 - [2019](posts/2019)
@@ -29,6 +31,9 @@ Se siete intressati ad articoli tecnici, non continuate nella lettura di queste 
 - [2002](posts/2002)
 - [2001](posts/2001)
 - [2000](posts/2000)
+
+## Adolescenza
+
 - [1999](posts/1999)
 - [1998](posts/1998)
 - [1997](posts/1997)
@@ -38,6 +43,9 @@ Se siete intressati ad articoli tecnici, non continuate nella lettura di queste 
 - [1993](posts/1993)
 - [1992](posts/1992)
 - [1991](posts/1991)
+
+## Infanzia
+
 - [1990](posts/1990)
 - [1989](posts/1989)
 - [1988](posts/1988)
