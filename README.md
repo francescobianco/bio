@@ -1,6 +1,9 @@
 # Biografia
 
-## AVVISO IMPORTANTE: Queste pagine sono una ricostruzione privata della mia vita, se siete intressati ad articoli tecnici non continuate nella lettura.
+## AVVISO IMPORTANTE
+
+Queste pagine sono utilizzate come supporto per la ricostruzione della mia vita, in relazione al processo di scoperta del perchè, descritto nel libro ["Trova il tuo perché" - S. Sinek](https://www.amazon.it/motivazioni-profonde-realizzarsi-ispirare-diventare/dp/8869876764).
+Siete intressati ad articoli tecnici non continuate nella lettura di queste pagine ma visitate il mio al seguente indirizzo [https://hardcode.blog](https://hardcode.blog).
 
 - [2021](posts/2021)
 - [2020](posts/2020) - La pandemia
