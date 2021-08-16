@@ -1,4 +1,6 @@
-# blog
+# Biografia
+
+## AVVISO IMPORTANTE: Queste pagine sono una ricostruzione privata della mia vita, se siete intressati ad articoli tecnici non continuate nella lettura.
 
 - [2021](posts/2021)
 - [2020](posts/2020) - La pandemia
