@@ -4,7 +4,7 @@ La storia della mia vita raccontata anno per anno.
 
 ## AVVISO IMPORTANTE
 
-Queste pagine sono utilizzate come supporto per la ricostruzione della mia vita, in relazione al processo di scoperta del perchè, descritto nel libro ["Trova il tuo perché" - Simon Sinek](https://www.amazon.it/motivazioni-profonde-realizzarsi-ispirare-diventare/dp/8869876764).
+Queste pagine sono utilizzate come supporto per la ricostruzione della mia vita, in relazione al processo di scoperta del **Perchè**, descritto nel libro ["Trova il tuo perché" - Simon Sinek](https://www.amazon.it/motivazioni-profonde-realizzarsi-ispirare-diventare/dp/8869876764).
 Se siete intressati ad articoli tecnici, non continuate nella lettura di queste pagine, ma visitate il mio blog al seguente indirizzo [https://hardcode.blog](https://hardcode.blog).
 
 ## Età adulta
