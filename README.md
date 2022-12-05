@@ -1,4 +1,4 @@
-# Francesco Bianco - Biografia
+# Francesco Bianco
 
 La storia della mia vita raccontata anno per anno.
 
