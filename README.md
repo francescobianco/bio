@@ -58,6 +58,6 @@ La storia della mia vita raccontata anno per anno.
 - [1982](posts/1982)
 - [1981](posts/1981) - Nato
 
-# Altre fonti
+# Risorse
 
 - [Calcolo Periodi Scolastici](https://docs.google.com/spreadsheets/d/1tTOdPOZ3xCJzF_M3-JB0UsiU18wJ3ZI14RLDz_QMpmA/edit?q=asilo#gid=0)
