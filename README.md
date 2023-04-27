@@ -53,9 +53,9 @@ La storia della mia vita raccontata anno per anno.
 - [1987](posts/1987)
 - [1986](posts/1986)
 - [1985](posts/1985)
-- [1984](posts/1984)
-- [1983](posts/1983)
-- [1982](posts/1982)
+- [1984](posts/1984) (età 3 anni) -
+- [1983](posts/1983) (eta 2 anni) -
+- [1982](posts/1982) (eta 1 anno) - La grande festa
 - [1981](posts/1981) - Nato
 
 # Risorse
