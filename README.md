@@ -9,6 +9,9 @@ La storia della mia vita raccontata anno per anno.
 
 ## Età adulta
 
+- [2026](posts/2026) 45 - Seconda Nazionale
+- [2025](posts/2025) 44
+- [2024](posts/2024) 43 - Tancredi inizia a giocare a scacchi
 - 2023 42 -
 - [2022](posts/2022) 41 - Arriva Ludovica
 - [2021](posts/2021) 40
